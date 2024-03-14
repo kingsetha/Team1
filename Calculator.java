@@ -1,4 +1,4 @@
-
+class Calculator {
  public static void Mul1(){
                     int a = 10;
                     int b = 10;
@@ -12,7 +12,7 @@
                     System.out.println("Mul" ,+c);
     }
 
-class Calculator {
+
 
     public static void main(String args[])
     {
@@ -33,9 +33,7 @@ class Calculator {
             int c = a/b;
             System.out.println("Div2 ="+c);
     }
-class Calculator
-  {
-	    public void add1(){
+	public void add1(){
                     int a=10;
                     int b=20;
             System.out.println(add);
