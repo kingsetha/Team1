@@ -4,7 +4,13 @@ class Calculator {
                     int b = 10;
                     int c = a*b;
                     System.out.println("Mul" ,+c);
+
 		    //System.out.println("Aravind");
+
+		    //System.our.println("ganapathy");
+		   // System.out.println("Giri")
+
+
     }
  public static void Mul2(){
                     int a = 1;
