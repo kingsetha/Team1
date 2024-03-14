@@ -4,6 +4,7 @@ class Calculator {
                     int b = 10;
                     int c = a*b;
                     System.out.println("Mul" ,+c);
+		    //System.our.println("ganapathy");
     }
  public static void Mul2(){
                     int a = 1;
