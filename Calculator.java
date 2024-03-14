@@ -5,6 +5,8 @@ class Calculator {
                     int c = a*b;
                     System.out.println("Mul" ,+c);
 		    //System.our.println("ganapathy");
+		   // Sy===stem.out.println("Giri")
+
     }
  public static void Mul2(){
                     int a = 1;
